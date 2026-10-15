@@ -1,8 +1,3 @@
-# Hi there! 👋
-
-I'm Umar Salim, and welcome to my GitHub profile! 
-
-## About Me
 
 I'm a Software Engineer.
 
@@ -17,4 +12,3 @@ Here are some of the programming languages, tools, and frameworks I'm proficient
 
 If you're interested in collaborating on a project or just want to say hi, you can reach me at salimumar@hotmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/umar-salim-72a35b8a/. 
 
-Thanks for stopping by!
